@@ -1,0 +1,417 @@
+{
+  "D:\\Downloads\\ATSBYOK\\.eslintrc.json": {
+    "mtime": 1778870192.9856372,
+    "ast_hash": "9b8be5ef96ddd69ecd1ddc1554c61a88",
+    "semantic_hash": "9b8be5ef96ddd69ecd1ddc1554c61a88"
+  },
+  "D:\\Downloads\\ATSBYOK\\middleware.ts": {
+    "mtime": 1778878727.5933344,
+    "ast_hash": "94252a3b5e25672d95d48ec4a7877900",
+    "semantic_hash": "94252a3b5e25672d95d48ec4a7877900"
+  },
+  "D:\\Downloads\\ATSBYOK\\next-env.d.ts": {
+    "mtime": 1778872877.6246295,
+    "ast_hash": "187b4b5b507c358a018aeeadd81abe57",
+    "semantic_hash": "187b4b5b507c358a018aeeadd81abe57"
+  },
+  "D:\\Downloads\\ATSBYOK\\next.config.mjs": {
+    "mtime": 1778872842.0608308,
+    "ast_hash": "4b5cb75acce76e15f42d1c00b587830f",
+    "semantic_hash": "4b5cb75acce76e15f42d1c00b587830f"
+  },
+  "D:\\Downloads\\ATSBYOK\\package.json": {
+    "mtime": 1778877157.9409206,
+    "ast_hash": "12ed85556c39fb601b97be7acbe51c8b",
+    "semantic_hash": "12ed85556c39fb601b97be7acbe51c8b"
+  },
+  "D:\\Downloads\\ATSBYOK\\postcss.config.mjs": {
+    "mtime": 1778870189.60838,
+    "ast_hash": "c56b5f3c12f777a86e2513f45daab56a",
+    "semantic_hash": "c56b5f3c12f777a86e2513f45daab56a"
+  },
+  "D:\\Downloads\\ATSBYOK\\skills-lock.json": {
+    "mtime": 1779031801.6436608,
+    "ast_hash": "b9019be77e08ba3a6a9abb87e6900bba",
+    "semantic_hash": "b9019be77e08ba3a6a9abb87e6900bba"
+  },
+  "D:\\Downloads\\ATSBYOK\\tailwind.config.ts": {
+    "mtime": 1778879926.7620118,
+    "ast_hash": "feb1cd4432f5e564686534068f5695e0",
+    "semantic_hash": "feb1cd4432f5e564686534068f5695e0"
+  },
+  "D:\\Downloads\\ATSBYOK\\tsconfig.json": {
+    "mtime": 1778870167.5977716,
+    "ast_hash": "570e85507d1fb0c609255b9a0aa95595",
+    "semantic_hash": "570e85507d1fb0c609255b9a0aa95595"
+  },
+  "D:\\Downloads\\ATSBYOK\\.claude\\settings.json": {
+    "mtime": 1778906195.4775386,
+    "ast_hash": "e99d00f34528b94fcaaa41a2ab1c1654",
+    "semantic_hash": "e99d00f34528b94fcaaa41a2ab1c1654"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\browse.json": {
+    "mtime": 1779032371.0570788,
+    "ast_hash": "5afaec648fd89e4cb000e4093f587d5c",
+    "semantic_hash": "5afaec648fd89e4cb000e4093f587d5c"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\layout.tsx": {
+    "mtime": 1778932440.8841226,
+    "ast_hash": "21495b4d4ec3139eada64886d14fdd27",
+    "semantic_hash": "21495b4d4ec3139eada64886d14fdd27"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\not-found.tsx": {
+    "mtime": 1778932386.0697787,
+    "ast_hash": "17ad998ea2b84dbeb4e605d16120f068",
+    "semantic_hash": "17ad998ea2b84dbeb4e605d16120f068"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\page.tsx": {
+    "mtime": 1779033198.0700765,
+    "ast_hash": "45daed747e84754ac6f5b9868676fdce",
+    "semantic_hash": "45daed747e84754ac6f5b9868676fdce"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\account\\delete\\route.ts": {
+    "mtime": 1778932385.5893157,
+    "ast_hash": "1f99364c202d3e9749b005bdc03d2bd6",
+    "semantic_hash": "1f99364c202d3e9749b005bdc03d2bd6"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\analyses\\[id]\\route.ts": {
+    "mtime": 1778944079.3060348,
+    "ast_hash": "2c40a8afe3fd9d8fb30db84f1ef7fa09",
+    "semantic_hash": "2c40a8afe3fd9d8fb30db84f1ef7fa09"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\analyze\\route.ts": {
+    "mtime": 1778932385.5893157,
+    "ast_hash": "e199c69f2c571a28cd07bc996c9525ff",
+    "semantic_hash": "e199c69f2c571a28cd07bc996c9525ff"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\byok\\key\\route.ts": {
+    "mtime": 1778932385.7089112,
+    "ast_hash": "257391a5727c77bcb7946acebf76e944",
+    "semantic_hash": "257391a5727c77bcb7946acebf76e944"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\byok\\save\\route.ts": {
+    "mtime": 1778932385.7339125,
+    "ast_hash": "5599a349bfbe91d4a55ad2f6d2c9e51a",
+    "semantic_hash": "5599a349bfbe91d4a55ad2f6d2c9e51a"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\byok\\test\\route.ts": {
+    "mtime": 1778932385.7542312,
+    "ast_hash": "f583a68bc9396e10cfe2356c5d11a111",
+    "semantic_hash": "f583a68bc9396e10cfe2356c5d11a111"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\cover-letter\\route.ts": {
+    "mtime": 1778932385.775836,
+    "ast_hash": "3e2c008e568973b31af3a914a2e66ed1",
+    "semantic_hash": "3e2c008e568973b31af3a914a2e66ed1"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\payment\\cancel\\route.ts": {
+    "mtime": 1778932385.778916,
+    "ast_hash": "1c3e55b6e25aa6c2439d6b8c5f29bc6c",
+    "semantic_hash": "1c3e55b6e25aa6c2439d6b8c5f29bc6c"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\payment\\create-order\\route.ts": {
+    "mtime": 1778932385.7821102,
+    "ast_hash": "19ac231360d94841b10b4ac57f00b25b",
+    "semantic_hash": "19ac231360d94841b10b4ac57f00b25b"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\payment\\verify\\route.ts": {
+    "mtime": 1778932385.8091168,
+    "ast_hash": "d771735ba7dddc2204fd42c1a0966231",
+    "semantic_hash": "d771735ba7dddc2204fd42c1a0966231"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\upload\\route.ts": {
+    "mtime": 1778932385.8121088,
+    "ast_hash": "c88cffefcde5eb732c24d79305b2a0e3",
+    "semantic_hash": "c88cffefcde5eb732c24d79305b2a0e3"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\usage\\route.ts": {
+    "mtime": 1778932385.8341157,
+    "ast_hash": "90180ad48361160adb6fce514b9e8b58",
+    "semantic_hash": "90180ad48361160adb6fce514b9e8b58"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\api\\webhooks\\razorpay\\route.ts": {
+    "mtime": 1778932385.850373,
+    "ast_hash": "bfd811f4c5aa0118327ad4cb6f7d2d76",
+    "semantic_hash": "bfd811f4c5aa0118327ad4cb6f7d2d76"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\auth\\callback\\route.ts": {
+    "mtime": 1778932385.85337,
+    "ast_hash": "0fa607476d7686fcaabeac5603cf6b17",
+    "semantic_hash": "0fa607476d7686fcaabeac5603cf6b17"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\contact\\page.tsx": {
+    "mtime": 1778932385.8706293,
+    "ast_hash": "c9cc10bc136997a5f02bba421b522b34",
+    "semantic_hash": "c9cc10bc136997a5f02bba421b522b34"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\cookies\\page.tsx": {
+    "mtime": 1778932385.8940651,
+    "ast_hash": "561d7682413c8d379f98a96b92ef41df",
+    "semantic_hash": "561d7682413c8d379f98a96b92ef41df"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\dashboard\\page.tsx": {
+    "mtime": 1779033220.8741076,
+    "ast_hash": "91b26bff05946f728ffd717cfc6392a4",
+    "semantic_hash": "91b26bff05946f728ffd717cfc6392a4"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\dashboard\\billing\\page.tsx": {
+    "mtime": 1779033224.7415118,
+    "ast_hash": "5c130b8220be827f8f649d4adf2dea23",
+    "semantic_hash": "5c130b8220be827f8f649d4adf2dea23"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\dashboard\\pricing\\page.tsx": {
+    "mtime": 1779033228.968092,
+    "ast_hash": "14c3663f3a3f0f179c7791ad0b734411",
+    "semantic_hash": "14c3663f3a3f0f179c7791ad0b734411"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\login\\page.tsx": {
+    "mtime": 1779032804.1348093,
+    "ast_hash": "6ee6a326307e2ba82076069e6ceeedff",
+    "semantic_hash": "6ee6a326307e2ba82076069e6ceeedff"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\optimize\\page.tsx": {
+    "mtime": 1778952162.5263295,
+    "ast_hash": "ed4713e443ada954b4a9951c1ee4c5b0",
+    "semantic_hash": "ed4713e443ada954b4a9951c1ee4c5b0"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\pricing\\page.tsx": {
+    "mtime": 1779033216.3205528,
+    "ast_hash": "cf9932dc8f185bc4b17b1a116744a405",
+    "semantic_hash": "cf9932dc8f185bc4b17b1a116744a405"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\privacy\\page.tsx": {
+    "mtime": 1779033268.0520895,
+    "ast_hash": "2d77736b081099a49e2cc51917f3c67b",
+    "semantic_hash": "2d77736b081099a49e2cc51917f3c67b"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\refund\\page.tsx": {
+    "mtime": 1779033262.9989614,
+    "ast_hash": "a7e6d9ac7aa02bab33a1ae93b5763bd5",
+    "semantic_hash": "a7e6d9ac7aa02bab33a1ae93b5763bd5"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\settings\\page.tsx": {
+    "mtime": 1779033241.2583444,
+    "ast_hash": "195406f0212122af32b6b21b7cdfd5ac",
+    "semantic_hash": "195406f0212122af32b6b21b7cdfd5ac"
+  },
+  "D:\\Downloads\\ATSBYOK\\app\\terms\\page.tsx": {
+    "mtime": 1779033258.708777,
+    "ast_hash": "698bd1767fe00ecc6f561e4e7d874bf2",
+    "semantic_hash": "698bd1767fe00ecc6f561e4e7d874bf2"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\AppNavbar.tsx": {
+    "mtime": 1779033154.8835669,
+    "ast_hash": "9e663535048a6c18ae49649a06dc9d68",
+    "semantic_hash": "9e663535048a6c18ae49649a06dc9d68"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\CopyButton.tsx": {
+    "mtime": 1778932386.2634056,
+    "ast_hash": "32f851ae69d0c58f1d4d282618222bf4",
+    "semantic_hash": "32f851ae69d0c58f1d4d282618222bf4"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\Footer.tsx": {
+    "mtime": 1779033175.254772,
+    "ast_hash": "6306ca4d72f9dcfcb9c2053977c01bb0",
+    "semantic_hash": "6306ca4d72f9dcfcb9c2053977c01bb0"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\LockedFeature.tsx": {
+    "mtime": 1778932386.311202,
+    "ast_hash": "0be0385902fd63b0f87e21b2f14104e1",
+    "semantic_hash": "0be0385902fd63b0f87e21b2f14104e1"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\Logo.tsx": {
+    "mtime": 1778932421.3966143,
+    "ast_hash": "b2463cd13bdf566f4e28d7afa730b541",
+    "semantic_hash": "b2463cd13bdf566f4e28d7afa730b541"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\PricingSection.tsx": {
+    "mtime": 1779033170.6695676,
+    "ast_hash": "f1ad4cbe466bd202b26e544e739bbf6e",
+    "semantic_hash": "f1ad4cbe466bd202b26e544e739bbf6e"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\PublicNavbar.tsx": {
+    "mtime": 1779032735.6553957,
+    "ast_hash": "fb539492c8c3d43dd53155b40d17db83",
+    "semantic_hash": "fb539492c8c3d43dd53155b40d17db83"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\ResumePreview.tsx": {
+    "mtime": 1778952737.3250797,
+    "ast_hash": "def422ee6b7919f731bb80989e178b1c",
+    "semantic_hash": "def422ee6b7919f731bb80989e178b1c"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\ScoreCircle.tsx": {
+    "mtime": 1778932386.3437905,
+    "ast_hash": "cefc68ded5ac22b7ba5f37158863417b",
+    "semantic_hash": "cefc68ded5ac22b7ba5f37158863417b"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\SmartNavbar.tsx": {
+    "mtime": 1778932386.3545632,
+    "ast_hash": "453f07cec558ecccd7673e1d0141ed4d",
+    "semantic_hash": "453f07cec558ecccd7673e1d0141ed4d"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\Toast.tsx": {
+    "mtime": 1779032786.556629,
+    "ast_hash": "6f0d65ac3a0f98610570b0828bd2de38",
+    "semantic_hash": "6f0d65ac3a0f98610570b0828bd2de38"
+  },
+  "D:\\Downloads\\ATSBYOK\\components\\UpgradeModal.tsx": {
+    "mtime": 1779033184.3174,
+    "ast_hash": "9d465e1be1ceb93ae64468be44c6544a",
+    "semantic_hash": "9d465e1be1ceb93ae64468be44c6544a"
+  },
+  "D:\\Downloads\\ATSBYOK\\lib\\ai\\router.ts": {
+    "mtime": 1778952723.643925,
+    "ast_hash": "a16a68036aaae7d6de249b505b702dda",
+    "semantic_hash": "a16a68036aaae7d6de249b505b702dda"
+  },
+  "D:\\Downloads\\ATSBYOK\\lib\\supabase\\admin.ts": {
+    "mtime": 1778870355.952063,
+    "ast_hash": "a410e344b21f53f036a379fe11f81563",
+    "semantic_hash": "a410e344b21f53f036a379fe11f81563"
+  },
+  "D:\\Downloads\\ATSBYOK\\lib\\supabase\\client.ts": {
+    "mtime": 1778870347.527215,
+    "ast_hash": "004fe41a5e8ffe5baf457861699df9ec",
+    "semantic_hash": "004fe41a5e8ffe5baf457861699df9ec"
+  },
+  "D:\\Downloads\\ATSBYOK\\lib\\utils\\crypto.ts": {
+    "mtime": 1778870384.5582724,
+    "ast_hash": "8de511770373b96e28effda61aa1ddef",
+    "semantic_hash": "8de511770373b96e28effda61aa1ddef"
+  },
+  "D:\\Downloads\\ATSBYOK\\lib\\utils\\json.ts": {
+    "mtime": 1778914154.3770354,
+    "ast_hash": "ee7cfc1858f9ab8fbf8eb052a95a6b97",
+    "semantic_hash": "ee7cfc1858f9ab8fbf8eb052a95a6b97"
+  },
+  "D:\\Downloads\\ATSBYOK\\lib\\utils\\pdf.ts": {
+    "mtime": 1778870389.4810932,
+    "ast_hash": "b6c42af729390b994b9959dc78926028",
+    "semantic_hash": "b6c42af729390b994b9959dc78926028"
+  },
+  "D:\\Downloads\\ATSBYOK\\lib\\utils\\plan.ts": {
+    "mtime": 1779033149.599515,
+    "ast_hash": "555036dd5b3134ef2584bbb199a7c097",
+    "semantic_hash": "555036dd5b3134ef2584bbb199a7c097"
+  },
+  "D:\\Downloads\\ATSBYOK\\lib\\utils\\resumeParser.ts": {
+    "mtime": 1778952715.9055598,
+    "ast_hash": "a4dbb89d1da73d8524b8fa8b188a3bf4",
+    "semantic_hash": "a4dbb89d1da73d8524b8fa8b188a3bf4"
+  },
+  "D:\\Downloads\\ATSBYOK\\supabase\\schema.sql": {
+    "mtime": 1778871037.4059381,
+    "ast_hash": "5de3b4ad541c3ef412c3a7d484a23c7c",
+    "semantic_hash": "5de3b4ad541c3ef412c3a7d484a23c7c"
+  },
+  "D:\\Downloads\\ATSBYOK\\types\\index.ts": {
+    "mtime": 1778929417.7768447,
+    "ast_hash": "c809ab86353445556a28597b514ff457",
+    "semantic_hash": "c809ab86353445556a28597b514ff457"
+  },
+  "D:\\Downloads\\ATSBYOK\\.graphify_uncached.txt": {
+    "mtime": 1779033816.2649949,
+    "ast_hash": "5922ba0b6924d3d19de24b38478eb3b2",
+    "semantic_hash": "5922ba0b6924d3d19de24b38478eb3b2"
+  },
+  "D:\\Downloads\\ATSBYOK\\CLAUDE.md": {
+    "mtime": 1779033284.697005,
+    "ast_hash": "6115f0e0bf7a91f660ce99956d544a88",
+    "semantic_hash": "6115f0e0bf7a91f660ce99956d544a88"
+  },
+  "D:\\Downloads\\ATSBYOK\\DECISIONS.md": {
+    "mtime": 1778942111.75361,
+    "ast_hash": "4f3c6ed1cdbd154fb28d21af3eff6a93",
+    "semantic_hash": "4f3c6ed1cdbd154fb28d21af3eff6a93"
+  },
+  "D:\\Downloads\\ATSBYOK\\.agents\\skills\\find-skills\\SKILL.md": {
+    "mtime": 1779031524.5706906,
+    "ast_hash": "efcaee1dd97ebac4f2f4071585cff6b5",
+    "semantic_hash": "efcaee1dd97ebac4f2f4071585cff6b5"
+  },
+  "D:\\Downloads\\ATSBYOK\\.agents\\skills\\web-design-guidelines\\SKILL.md": {
+    "mtime": 1779031801.640658,
+    "ast_hash": "98087aedd18375666dbb093c859b2949",
+    "semantic_hash": "98087aedd18375666dbb093c859b2949"
+  },
+  "D:\\Downloads\\ATSBYOK\\.claude\\skills\\find-skills\\SKILL.md": {
+    "mtime": 1779031524.5706906,
+    "ast_hash": "efcaee1dd97ebac4f2f4071585cff6b5",
+    "semantic_hash": "efcaee1dd97ebac4f2f4071585cff6b5"
+  },
+  "D:\\Downloads\\ATSBYOK\\.claude\\skills\\web-design-guidelines\\SKILL.md": {
+    "mtime": 1779031801.640658,
+    "ast_hash": "98087aedd18375666dbb093c859b2949",
+    "semantic_hash": "98087aedd18375666dbb093c859b2949"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\after-landing.png": {
+    "mtime": 1779032877.0355182,
+    "ast_hash": "f81f577dd34d5a07624d5ea5cb214ef6",
+    "semantic_hash": "f81f577dd34d5a07624d5ea5cb214ef6"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\after-login.png": {
+    "mtime": 1779032877.908259,
+    "ast_hash": "c0cb9a1ae8b83e3f540017ea3b44aedd",
+    "semantic_hash": "c0cb9a1ae8b83e3f540017ea3b44aedd"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\after-pricing.png": {
+    "mtime": 1779032878.853692,
+    "ast_hash": "721e7475c71881233e7e04c0036c8f6e",
+    "semantic_hash": "721e7475c71881233e7e04c0036c8f6e"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\first-impression.png": {
+    "mtime": 1779032387.108415,
+    "ast_hash": "425c91c1d2ed90e9bce5cd7d8cfcba47",
+    "semantic_hash": "425c91c1d2ed90e9bce5cd7d8cfcba47"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\landing-annotated.png": {
+    "mtime": 1779032495.9746747,
+    "ast_hash": "8af43ed3ff5b5fc8ff9528b3d1c38233",
+    "semantic_hash": "8af43ed3ff5b5fc8ff9528b3d1c38233"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\landing-desktop.png": {
+    "mtime": 1779032410.8432562,
+    "ast_hash": "425c91c1d2ed90e9bce5cd7d8cfcba47",
+    "semantic_hash": "425c91c1d2ed90e9bce5cd7d8cfcba47"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\landing-mobile.png": {
+    "mtime": 1779032410.184583,
+    "ast_hash": "cb8c8353423addf8eb48623489a93303",
+    "semantic_hash": "cb8c8353423addf8eb48623489a93303"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\landing-tablet.png": {
+    "mtime": 1779032410.4762738,
+    "ast_hash": "24b3070365f7813dfbcb62590642fada",
+    "semantic_hash": "24b3070365f7813dfbcb62590642fada"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\login-annotated.png": {
+    "mtime": 1779032507.8292832,
+    "ast_hash": "38d35f7c6487ac7d9989683c5315607f",
+    "semantic_hash": "38d35f7c6487ac7d9989683c5315607f"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\login.png": {
+    "mtime": 1779032434.7605739,
+    "ast_hash": "61ea93814846c4f2aa7bf0debb30f188",
+    "semantic_hash": "61ea93814846c4f2aa7bf0debb30f188"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\pricing-desktop.png": {
+    "mtime": 1779032506.722002,
+    "ast_hash": "661d556b5befef0473598cf6618f1bd8",
+    "semantic_hash": "661d556b5befef0473598cf6618f1bd8"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\pricing-mobile.png": {
+    "mtime": 1779032506.4334974,
+    "ast_hash": "bdbfdb2e01ae094facdab3c1baad83c1",
+    "semantic_hash": "bdbfdb2e01ae094facdab3c1baad83c1"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\pricing-tablet.png": {
+    "mtime": 1779032506.5783362,
+    "ast_hash": "7e21d0ec81c95967ec33a3cc093333fe",
+    "semantic_hash": "7e21d0ec81c95967ec33a3cc093333fe"
+  },
+  "D:\\Downloads\\ATSBYOK\\.gstack\\design-audit-20260517\\screenshots\\pricing.png": {
+    "mtime": 1779032425.9392478,
+    "ast_hash": "661d556b5befef0473598cf6618f1bd8",
+    "semantic_hash": "661d556b5befef0473598cf6618f1bd8"
+  }
+}

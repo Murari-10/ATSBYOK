@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #F9FAFB;
+  color: #111827;
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+@layer components {
+  /* Buttons */
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-primary text-white text-sm font-medium rounded-btn hover:bg-primary-hover transition-colors duration-150 disabled:bg-gray-300 disabled:text-gray-400 disabled:cursor-not-allowed;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-white text-gray-900 text-sm font-medium rounded-btn border border-gray-200 hover:bg-gray-100 transition-colors duration-150 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  .btn-danger {
+    @apply inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-white text-red-500 text-sm font-medium rounded-btn border border-red-400 hover:bg-red-50 transition-colors duration-150;
+  }
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 px-4 py-2 bg-transparent text-gray-500 text-sm font-medium rounded-btn hover:text-gray-900 hover:bg-gray-100 transition-colors duration-150;
+  }
+
+  /* Cards */
+  .card {
+    @apply bg-white border border-gray-200 rounded-card p-6 shadow-card;
+  }
+  .card-sm {
+    @apply bg-white border border-gray-200 rounded-card p-4 shadow-card;
+  }
+
+  /* Inputs */
+  .input-field {
+    @apply w-full h-[42px] px-3 bg-white border border-gray-200 rounded-input text-sm text-gray-900 placeholder-gray-400 focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/10 transition-all;
+  }
+  .textarea-field {
+    @apply w-full px-3 py-2.5 bg-white border border-gray-200 rounded-input text-sm text-gray-900 placeholder-gray-400 focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/10 transition-all resize-none;
+  }
+  .select-field {
+    @apply w-full h-[42px] px-3 bg-white border border-gray-200 rounded-input text-sm text-gray-900 focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/10 transition-all;
+  }
+
+  /* Badges */
+  .badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-pill text-tiny font-medium;
+  }
+  .badge-free { @apply badge bg-gray-100 text-gray-500; }
+  .badge-starter { @apply badge bg-yellow-50 text-yellow-800; }
+  .badge-pro { @apply badge bg-primary-light text-primary-text; }
+  .badge-elite { @apply badge bg-purple-50 text-purple-700; }
+  .badge-byok { @apply badge bg-amber-50 text-amber-800; }
+
+  /* Keyword tags */
+  .tag-found { @apply inline-flex items-center px-2.5 py-1 rounded-pill text-tiny font-medium bg-primary-light text-primary-text; }
+  .tag-missing { @apply inline-flex items-center px-2.5 py-1 rounded-pill text-tiny font-medium bg-red-50 text-red-600; }
+
+  /* Section container */
+  .page-container {
+    @apply max-w-page mx-auto px-6 sm:px-6;
+  }
+  .page-section {
+    @apply py-16 sm:py-10;
+  }
+}
