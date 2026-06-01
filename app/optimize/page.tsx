@@ -587,7 +587,7 @@ export default function OptimizePage() {
                     <ul className="space-y-1.5">
                       {analysis.format_issues.map((issue, i) => (
                         <li key={i} className="flex gap-2 text-sm text-gray-700">
-                          <span className="text-amber-500 shrink-0">âš </span>{issue}
+                          <span className="text-amber-500 shrink-0">⚠</span>{issue}
                         </li>
                       ))}
                     </ul>
@@ -682,7 +682,7 @@ export default function OptimizePage() {
               {/* Cold Email */}
               <div className="card">
                 <div className="flex items-center justify-between mb-4">
-                  <h2 className="font-bold text-gray-900">âœ‰ Cold Email Template</h2>
+                  <h2 className="font-bold text-gray-900">✉ Cold Email Template</h2>
                   {canEmail && analysis.cold_email_subject && (
                     <CopyButton text={`Subject: ${analysis.cold_email_subject}\n\n${analysis.cold_email_body ?? ""}`} label="Copy all" />
                   )}

@@ -79,11 +79,9 @@ export async function POST(request: Request) {
     // Reset monthly counter if needed
     const resetDate = new Date(profile.optimizations_reset_date);
     const now = new Date();
-    if (
-      plan !== "starter" &&
-      (now.getFullYear() > resetDate.getFullYear() ||
-        now.getMonth() > resetDate.getMonth())
-    ) {
+    const nowYM = now.getFullYear() * 12 + now.getMonth();
+    const resetYM = resetDate.getFullYear() * 12 + resetDate.getMonth();
+    if (plan !== "starter" && nowYM > resetYM) {
       await supabaseAdmin
         .from("profiles")
         .update({

@@ -42,6 +42,26 @@ export async function GET() {
       }
     }
 
+    // Reset monthly counter if the month has rolled over
+    if (plan !== "starter") {
+      const resetDate = new Date(profile.optimizations_reset_date);
+      const now = new Date();
+      const nowYM = now.getFullYear() * 12 + now.getMonth();
+      const resetYM = resetDate.getFullYear() * 12 + resetDate.getMonth();
+      if (nowYM > resetYM) {
+        await supabaseAdmin
+          .from("profiles")
+          .update({
+            optimizations_used_this_month: 0,
+            optimizations_reset_date: new Date(now.getFullYear(), now.getMonth(), 1)
+              .toISOString()
+              .split("T")[0],
+          })
+          .eq("id", user.id);
+        profile.optimizations_used_this_month = 0;
+      }
+    }
+
     const limit = PLAN_LIMITS[plan];
     const used =
       plan === "starter"
